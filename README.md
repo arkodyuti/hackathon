@@ -1,11 +1,13 @@
-# Hackference India 2018 Submissions
+# Hackathon
+Welcome to Hackathon! Add more content. 
+
 
 ## Rules
-Kindly go through the [Rules](rules.md) of the Hackference Hackathon beforehand.
+Kindly go through the [Rules](rules.md) of the Hackathon beforehand.
 
 ## Submissions
 All the Project Submissions have to done by making an issue in this repository. The guidelines to followed for the same have been mentioned below:
-1. The **Team Leader** has to open up an Issue for project submission using his GitHub Account [here](https://github.com/hackferenceindia/submissions/issues/new)
+1. The **Team Leader** has to open up an Issue for project submission using his GitHub Account [here](https://github.com/hackathon/submissions/issues/new)
 2. The **Issue Template** should be strictly followed. A submission not following the same would be termed as an INVALID SUBMISSION.
 3. Add appropriate **labels** according to your **Project Field & Track**. Two Label have to applied on each individual submission.
 4. Only a **single issue** has to be made for each individual project, Multiple submissions will be termed as INVALID SUBMISSION.
@@ -69,4 +71,4 @@ Pick any ONE interesting interpretation of what is currently a common task on yo
 
 
 
-#### In case of any confusion, you can ask your nearest Hackference Staff members to help you out with the same.
+#### Ask us if you've any questions. Drop your questions here (add IM link)
