@@ -1,5 +1,5 @@
 # Hackathon
-Welcome to Hackathon! Add more content. 
+Welcome to Hackathon!  
 
 
 ## Rules
